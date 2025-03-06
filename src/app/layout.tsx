@@ -20,10 +20,10 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
     title: {
-        default: 'NextJS Template',
-        template: '%s | NextJS Template',
+        default: 'Panels',
+        template: '%s | Panels',
     },
-    description: 'NextJS Template',
+    description: 'Panels',
     robots: {
         follow: true,
         index: true,
